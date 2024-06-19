@@ -19,6 +19,23 @@
 
 <br/>
 
+🔴 **Concepts used :** 
+>
+🍁 *MVC architecture*
+>
+🍁 *Spring Boot*
+>
+🍁 *MongoDB*
+>
+🍁 *Json*
+>
+🍁 *Swagger API*
+>
+🍁 *MongoDB Repository*
+>
+🍁 *Pipelines*
+>
+🍁 *MongoDB ATLAS Search
 
 
 
